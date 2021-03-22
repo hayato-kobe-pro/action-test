@@ -41,3 +41,5 @@ yarn-debug.log*
 
 template/*  
 !/.github/workflows/*
+
+/test-top/index.js
